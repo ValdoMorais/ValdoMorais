@@ -5,7 +5,7 @@
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valdomoraisflor/)
  
  
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValdoMorais&theme=nord_dark) | 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValdoMorais&theme=nord_dark)
  
 ## Technologies 
 
