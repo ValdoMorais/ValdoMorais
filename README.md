@@ -6,6 +6,8 @@
  
  ![ValdoDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValdoMorais&show_icons=true&theme=transparent)
  
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValdoMorais&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
+| :-: | :-: | :-: |
  
 ## Technologies 
 
